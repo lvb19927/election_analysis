@@ -30,6 +30,7 @@ Total number of votes: 369,711
 3. Calculate the number of votes per candidate
 4. Calculating the percentage of votes per candidate
 5. Find the winner based on total number of votes
+
 On top of all of this, we modified a few more steps to dive a little deeper into the results:
 6. Calculate the amount of votes in each county
 7. Calculate the percentage of votes each county contributed to the election
